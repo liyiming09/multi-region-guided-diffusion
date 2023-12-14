@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "small plants in the ocean",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 2336244367,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 0.6708,
+      "h": 1,
+      "prompt": "a red fish, beautiful",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.5,
+      "seed": 2034721139,
+      "key_prompt": "fish, red"
+    },
+    {
+      "enable": true,
+      "x": 0.3708,
+      "y": 0.5583,
+      "w": 0.6292,
+      "h": 0.4417,
+      "prompt": "a fish, (fish:1.8), (beautiful:1.4),intrinsically detailed",
+      "neg_prompt": "",
+      "blend_mode": "RemovalForeground",
+      "feather_ratio": 0.5,
+      "seed": 1622936501,
+      "key_prompt": "fish"
+    }
+  ]
+}

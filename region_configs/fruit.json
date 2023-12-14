@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "white table",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 3123917766,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.0875,
+      "y": 0.0708,
+      "w": 0.3875,
+      "h": 0.3875,
+      "prompt": "a picture of two red cherries",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": 627780211,
+      "key_prompt": "red cherries"
+    },
+    {
+      "enable": true,
+      "x": 0.6125,
+      "y": 0.5708,
+      "w": 0.2792,
+      "h": 0.3375,
+      "prompt": "a picture of one red apple",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": 971574001,
+      "key_prompt": "red apple"
+    }
+  ]
+}

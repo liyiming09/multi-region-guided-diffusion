@@ -1,0 +1,56 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "sunset, mountain",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 1405213071,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.4209,
+      "y": 0.2875,
+      "w": 0.5791,
+      "h": 0.7125,
+      "prompt": " 1 car,(suv:1.8),simple future concept speedform, futuristic form, muscular volume, floating vehicle, science fiction, reflection paint, (green matte paint color:1.4), reflective ground, far away mountain",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.3,
+      "seed": 1986,
+      "key_prompt": "suv, car, green"
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0.2875,
+      "w": 0.6167,
+      "h": 0.7125,
+      "prompt": "1 car ,small, simple, red, (concept SUV:1.2),year 2030,rear 45 degree view,((ev)),cybertech,future, sporty",
+      "neg_prompt": "",
+      "blend_mode": "EditedSource",
+      "feather_ratio": 0.5,
+      "seed": 2610038678,
+      "key_prompt": "car, suv, red"
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0.2875,
+      "w": 0.6167,
+      "h": 0.7125,
+      "prompt": "1 car ,small, simple, red, (concept SUV:1.2),year 2030,front 45 degree view,((ev)),cybertech,future, sporty",
+      "neg_prompt": "",
+      "blend_mode": "EditedTarget",
+      "feather_ratio": 0.5,
+      "seed": 2610038678,
+      "key_prompt": "car, suv, red"
+    }
+  ]
+}

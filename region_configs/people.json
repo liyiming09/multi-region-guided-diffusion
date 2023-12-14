@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "a blank space, no man",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 3123917766,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.0875,
+      "y": 0.0708,
+      "w": 0.3875,
+      "h": 0.9292,
+      "prompt": "Man, walking man, beards,  blue jeans tops, dark pants, brown shoes ",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": 627780211,
+      "key_prompt": "a walking man"
+    },
+    {
+      "enable": true,
+      "x": 0.6083,
+      "y": 0.0458,
+      "w": 0.35,
+      "h": 0.9542,
+      "prompt": "woman, black vests, walking with back to the viewer, white shoulder bags, black pants",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": 971574001,
+      "key_prompt": "a walking woman"
+    }
+  ]
+}

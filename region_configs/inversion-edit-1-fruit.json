@@ -1,0 +1,56 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "white texture",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 3123917766,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.0875,
+      "y": 0.0708,
+      "w": 0.3875,
+      "h": 0.3875,
+      "prompt": "two red cherries",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": 627780211,
+      "key_prompt": "red cherries"
+    },
+    {
+      "enable": true,
+      "x": 0.6125,
+      "y": 0.5708,
+      "w": 0.2792,
+      "h": 0.3375,
+      "prompt": "a red apple",
+      "neg_prompt": "",
+      "blend_mode": "EditedSource",
+      "feather_ratio": 0.2,
+      "seed": 971574001,
+      "key_prompt": "red apple"
+    },
+    {
+      "enable": true,
+      "x": 0.6125,
+      "y": 0.5708,
+      "w": 0.2792,
+      "h": 0.3375,
+      "prompt": "an orange, (orange:1.2)",
+      "neg_prompt": "",
+      "blend_mode": "EditedTarget",
+      "feather_ratio": 0.2,
+      "seed": 228295174,
+      "key_prompt": "orange"
+    }
+  ]
+}

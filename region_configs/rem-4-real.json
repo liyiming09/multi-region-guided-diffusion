@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "night city street, bokeh",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 358041071,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 0.5125,
+      "h": 0.7583,
+      "prompt": "caucasian woman, wearing black sweater, serious face,standing, full body shot, (full body:1.4), (RAW photo, best quality), (realistic, photo-realistic:1.3), extremely detailed , finely detail, masterpiece,best quality, ultra-detailed, highres",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": 3104970914,
+      "key_prompt": "woman, black sweater"
+    },
+    {
+      "enable": true,
+      "x": 0.5083,
+      "y": 0.5834,
+      "w": 0.4917,
+      "h": 0.4166,
+      "prompt": "1 supercar, behind, hypercar design concept, simplest form, wide and muscular volume,science fiction, orange jet-black satin paint, car design trend 2023, (RAW photo, best quality), (realistic, photo-realistic:1.3), extremely detailed , finely detail, masterpiece,best quality, ultra-detailed, highres",
+      "neg_prompt": "",
+      "blend_mode": "RemovalForeground",
+      "feather_ratio": 0.4,
+      "seed": 3748694855,
+      "key_prompt": "car"
+    }
+  ]
+}

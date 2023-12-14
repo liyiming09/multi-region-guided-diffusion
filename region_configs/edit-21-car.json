@@ -1,0 +1,56 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "garage, dark",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 2419361575,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0.4417,
+      "w": 0.6708,
+      "h": 0.5583,
+      "prompt": "futuristic tank concept, simplest form, wide and muscular volume, sharp surfaces,floating vehicle, thrusters, shiny led bar lights, science fiction,blue jet-black satin paint, vehicle focus, lens flare, car design trend 2023,(audi boat design concept:0.6),side view",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.4,
+      "seed": 1986,
+      "key_prompt": "car, blue"
+    },
+    {
+      "enable": true,
+      "x": 0.5083,
+      "y": 0.4375,
+      "w": 0.4917,
+      "h": 0.5625,
+      "prompt": "1 car exterior,( side view:1.2),year 2025, in the style of chen zhen, light gray and light black, ethereal lighting, henry justice ford, bold character designs, clean lines, pure forms",
+      "neg_prompt": "",
+      "blend_mode": "EditedSource",
+      "feather_ratio": 0.3,
+      "seed": 4195358162,
+      "key_prompt": "gray, car"
+    },
+    {
+      "enable": true,
+      "x": 0.5083,
+      "y": 0.4375,
+      "w": 0.4917,
+      "h": 0.5625,
+      "prompt": "1 car exterior,( front view:1.4),year 2025, in the style of chen zhen, light gray and light black, ethereal lighting, henry justice ford, bold character designs, clean lines, pure forms",
+      "neg_prompt": "",
+      "blend_mode": "EditedTarget",
+      "feather_ratio": 0.3,
+      "seed": 4195358162,
+      "key_prompt": "gray, car"
+    }
+  ]
+}

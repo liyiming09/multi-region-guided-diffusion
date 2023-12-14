@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "bedroom, sofa",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 1405213071,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.4209,
+      "y": 0.1167,
+      "w": 0.5791,
+      "h": 0.8833,
+      "prompt": "wolf girl, nordic face, beautiful face, maid outfit, full body, (sitting on sofa:1.5), backlighting, white hair, long hair, orange eyes, rich interior, furniture, flowers, best quality, high quality, highres, ultra detailed, high detailed, (realistic:1.3), (photorealistic:1.3), RAW photo",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": 2354276599,
+      "key_prompt": "girl,  white hair,orange eye"
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0.1167,
+      "w": 0.6167,
+      "h": 0.8833,
+      "prompt": "man sitting on sofa, (man:1.6), short hair, (white knit sweater:1.2), (blue jeans:1.3),(full body:1.8), sharp focus, highly detailed face",
+      "neg_prompt": "",
+      "blend_mode": "RemovalForeground",
+      "feather_ratio": 0.3,
+      "seed": 3636392349,
+      "key_prompt": "man, short hair, sweater, blue jeans, sitting"
+    }
+  ]
+}

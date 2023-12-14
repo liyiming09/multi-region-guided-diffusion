@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "dark ambient background",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 1405213071,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.4209,
+      "y": 0.1167,
+      "w": 0.5791,
+      "h": 0.8833,
+      "prompt": "Lucid concept suv, muscular volume, car design trend 2023, silver matte paint color, rear 45 degree view,simple and clean surfaces",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.5,
+      "seed": 2354276599,
+      "key_prompt": "suv, car, silver"
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0.1167,
+      "w": 0.6167,
+      "h": 0.8833,
+      "prompt": "1 car ,small, simple, red, concept SUV,year 2030,rear 45 degree view,((ev)),cybertech,future, sporty",
+      "neg_prompt": "",
+      "blend_mode": "RemovalForeground",
+      "feather_ratio": 0.5,
+      "seed": 3636392349,
+      "key_prompt": "car, suv, red"
+    }
+  ]
+}

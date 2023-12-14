@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "small plants in background, in the ocean",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 2419361575,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 0.6708,
+      "h": 1,
+      "prompt": "a red fish, beautiful",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.4,
+      "seed": 2034721139,
+      "key_prompt": "fish, red"
+    },
+    {
+      "enable": true,
+      "x": 0.5083,
+      "y": 0.5583,
+      "w": 0.4917,
+      "h": 0.4417,
+      "prompt": "a yellow fish, beautiful",
+      "neg_prompt": "",
+      "blend_mode": "AdditionForeground",
+      "feather_ratio": 0.5,
+      "seed": 1739610936,
+      "key_prompt": "fish, yellow"
+    }
+  ]
+}

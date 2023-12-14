@@ -1,0 +1,56 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "night city street, bokeh",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 358041071,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 0.51,
+      "h": 1,
+      "prompt": "(medium shot:1.4),closeup face photo of 18 y.o Swedish woman in dress, beautiful face, makeup, (full body:1.4), (Swedish woman:1.6),(intrinsically detailed face:1.5)",
+      "neg_prompt": "",
+      "blend_mode": "EditedSource",
+      "feather_ratio": 0.35,
+      "seed": 131772346,
+      "key_prompt": "swedish woman, dress, face"
+    },
+    {
+      "enable": true,
+      "x": 0.575,
+      "y": 0.2417,
+      "w": 0.425,
+      "h": 0.7583,
+      "prompt": "woman, long hair, (pale skin:1.1), (smirk:0.5), (white knit sweater:1.2), (black canvas skirt:1.3), pantyhose, hand on waist,  (beautiful, gorgeous:1.2), (black hair:1.3), (braided ponytail:1.3), (looking at viewer:1.4)",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.35,
+      "seed": 1230673115,
+      "key_prompt": "woman, long hair, white knit sweater, black canvas skirt"
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 0.51,
+      "h": 1,
+      "prompt": "(medium shot:1.4),closeup face photo of 18 y.o Indian woman in dress, beautiful face, makeup, (full body:1.4), (Indian woman:1.6),(intrinsically detailed face:1.5)",
+      "neg_prompt": "",
+      "blend_mode": "EditedTarget",
+      "feather_ratio": 0.35,
+      "seed": 131772346,
+      "key_prompt": "indian woman, dress, face, old"
+    }
+  ]
+}

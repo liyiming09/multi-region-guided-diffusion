@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "park, lawn\n",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 1405213071,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.1375,
+      "y": 0.1167,
+      "w": 0.5875,
+      "h": 0.8833,
+      "prompt": "a beautiful woman (abc0rnish:.99), beautiful hair,short hair, outdoors, sitting on the lawn, fall Paris, elegant jewelry, perfect makeup, natural skin texture, (designer skirt), (turtleneck), smile, (high detailed skin:1.2), sharp focus",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.25,
+      "seed": 3492949720,
+      "key_prompt": "woman, smile, skirt, sitting"
+    },
+    {
+      "enable": true,
+      "x": 0.4125,
+      "y": 0.1167,
+      "w": 0.5875,
+      "h": 0.8833,
+      "prompt": " (cafe, realistic detailed), a man, (smiling), (((looks at camera))), suit, sitting, (high detailed skin:1.2), sharp focus,outdoors, sitting on the lawn, （back to the viewer:1.5）",
+      "neg_prompt": "",
+      "blend_mode": "RemovalForeground",
+      "feather_ratio": 0.3,
+      "seed": 735230008,
+      "key_prompt": "man, smiling, suit"
+    }
+  ]
+}

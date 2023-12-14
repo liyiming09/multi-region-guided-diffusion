@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "white texture",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 3123917766,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.0854,
+      "y": 0.1416,
+      "w": 0.3875,
+      "h": 0.775,
+      "prompt": "a picture of two red cherries",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.3,
+      "seed": 2933457694,
+      "key_prompt": "red cherries"
+    },
+    {
+      "enable": true,
+      "x": 0.5667,
+      "y": 0.15,
+      "w": 0.3813,
+      "h": 0.75,
+      "prompt": "one red apple in a blank space",
+      "neg_prompt": "",
+      "blend_mode": "AdditionForeground",
+      "feather_ratio": 0.5,
+      "seed": 2494284613,
+      "key_prompt": "red apple"
+    }
+  ]
+}

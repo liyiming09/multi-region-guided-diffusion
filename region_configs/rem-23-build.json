@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "room, an interior space",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 2419361575,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 0.6708,
+      "h": 1,
+      "prompt": "camera lens, super high resolution, (Realistic Scenes: 2), ((1 Floor-to-ceiling window)), （heavy rainstorm）, smooth black wooden floor, interior, cool tones，close up shot，seaside，windows with the sea beyond，camera facing window，beach，Epic level composition",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.5,
+      "seed": 1841858357,
+      "key_prompt": "window, beach, floor"
+    },
+    {
+      "enable": true,
+      "x": 0.5083,
+      "y": 0,
+      "w": 0.4917,
+      "h": 1.0,
+      "prompt": "((1 grand chair:1.8)),  interior, cool tones，close up shot, ((1 Floor-to-ceiling window)),Epic level composition",
+      "neg_prompt": "",
+      "blend_mode": "AdditionForeground",
+      "feather_ratio": 0.45,
+      "seed": 1810760320,
+      "key_prompt": "chair"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "sunset , city, street",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 2419361575,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.4209,
+      "y": 0.2875,
+      "w": 0.5791,
+      "h": 0.7125,
+      "prompt": "1 boat exterior,(front 45 degree view:1.2),year 2025,the concept image of a sports boat with city in the background, in the style of chen zhen, light gray and light black, ethereal lighting, henry justice ford, bold character designs, clean lines, pure forms, front view",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.5,
+      "seed": 4064565911,
+      "key_prompt": "gray, boat"
+    },
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0.2875,
+      "w": 0.6167,
+      "h": 0.7125,
+      "prompt": "1 car ,small, simple, red, (concept SUV:1.2),year 2030,front view,((ev)),cybertech,future, sporty, street, city",
+      "neg_prompt": "",
+      "blend_mode": "RemovalForeground",
+      "feather_ratio": 0.4,
+      "seed": 646151375,
+      "key_prompt": "car, suv, red"
+    }
+  ]
+}

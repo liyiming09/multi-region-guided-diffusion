@@ -1,0 +1,30 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "park, lawn\n",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": 1405213071,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.4125,
+      "y": 0.1167,
+      "w": 0.5875,
+      "h": 0.8833,
+      "prompt": "a young brunette, long messy hair, warm turtleneck, (upper body:1.2), sharp focus, (red dress:1.3),outdoors, sitting on the lawn, （back to the viewer:1.5）",
+      "neg_prompt": "",
+      "blend_mode": "AdditionForeground",
+      "feather_ratio": 0.5,
+      "seed": 735230008,
+      "key_prompt": "brunette, long hair, holding hands"
+    }
+  ]
+}

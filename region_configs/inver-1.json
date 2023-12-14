@@ -1,0 +1,56 @@
+{
+  "bbox_controls": [
+    {
+      "enable": true,
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1,
+      "prompt": "white table",
+      "neg_prompt": "",
+      "blend_mode": "Background",
+      "feather_ratio": 0.2,
+      "seed": -1,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.0792,
+      "y": 0.0833,
+      "w": 0.3417,
+      "h": 0.3875,
+      "prompt": "three apples",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": -1,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.5333,
+      "y": 0.0708,
+      "w": 0.3583,
+      "h": 0.4208,
+      "prompt": "three pears",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": -1,
+      "key_prompt": ""
+    },
+    {
+      "enable": true,
+      "x": 0.2208,
+      "y": 0.5375,
+      "w": 0.4958,
+      "h": 0.4333,
+      "prompt": "four bananas",
+      "neg_prompt": "",
+      "blend_mode": "Foreground",
+      "feather_ratio": 0.2,
+      "seed": -1,
+      "key_prompt": ""
+    }
+  ]
+}
