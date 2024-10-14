@@ -71,7 +71,7 @@ In the image manipulation task, we only consider the case of multi-object genera
 - Reproducibility:
   - A regional config file is provided for each instance, as well as a generated log file containing the details of each prompt and the random seed.
   - Due to the optimization of the algorithm, the hyperparameters are set differently in different versions of the algorithm, so you need to pay attention to the specific settings of the hyperparameters in the tiled_diffusion.py file. The key hyperparameters will be integrated into the UI interface later on
-### 其他说明
+### Others
 - We would like to thank the following repos, their code was essential in the developement of this project: [https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 - This code is a plug-in developed for [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 Because in the subsequent development process, WebUI official sampler (especially DDIM Sampler) and some interface code changes, the current version of the code can not run on the latest version of WebUI, will be updated after completing the subsequent adjustments.
